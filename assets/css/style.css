@@ -1,0 +1,39 @@
+/*
+    CSS File for Basic-Portfolio web site.
+    Joed Machado. 20180506
+*/
+
+* {
+    color: #777777;
+}
+
+body {
+    background-color: #4aaaa5;
+    background-image: url("assets/images/dust_scratches.png");
+}
+
+.mainHeader {
+    background-color: #ffffff;
+    border-bottom: #cccccc;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+}
+
+.headFont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.otherFont {
+    font-family: Arial, Helvetica, 'Helvetica Neue',sans-serif
+}
+
+.about {
+    background-color: #ffffff;
+    border: 2px solid #dddddd;
+    width: 70%;
+    margin: 20px auto auto;
+    padding: 20px;
+}
+
